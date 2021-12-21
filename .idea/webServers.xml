@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b294bbd5-9d55-48c1-9680-ce9292a67d76" name="IR-PROJECT">
+        <fileTransfer rootFolder="/tmp/yyc" accessType="SFTP" host="10.102.32.219" port="8022" sshConfigId="f502484e-9266-470d-8849-589b4161c542" sshConfig="ilearn_docker_ssh">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
